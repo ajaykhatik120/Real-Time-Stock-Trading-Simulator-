@@ -1,0 +1,10 @@
+[I 250108 11:02:50 live_simulator_04:27] on open
+[E 250108 11:05:02 smartConnect:221] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'b3:56:4e:fd:0f:fd', 'Accept': 'application/json', 'X-PrivateKey': '5Xettbe2', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'A743318', 'password': '0852', 'totp': '951039'}, Response: HTTPSConnectionPool(host='apiconnect.angelone.in', port=443): Max retries exceeded with url: /rest/auth/angelbroking/user/v1/loginByPassword (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000203264E2770>: Failed to resolve 'apiconnect.angelone.in' ([Errno 11001] getaddrinfo failed)"))
+[I 250108 11:06:29 live_simulator_04:27] on open
+[I 250108 11:08:52 live_simulator_04:27] on open
+[W 250108 11:08:56 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250108 11:10:48 live_simulator_04:27] on open
+[I 250108 11:16:11 live_simulator_04:27] on open
+[I 250108 11:17:45 live_simulator_04:27] on open
+[I 250108 11:18:23 live_simulator_04:27] on open
+[I 250108 11:22:38 live_simulator_04:26] on open
